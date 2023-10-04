@@ -81,12 +81,7 @@ gap: 40px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
-   
-   
-   
-    
 }
-
     .header-nav-link:hover, .header-nav-link:focus {color:#404BBF;}
 
 .address-list {
@@ -114,13 +109,11 @@ gap: 40px;
 /**================================**/
 /**===========sec-btn==========**/
 
-   
 .section-one-container {
     background-color: #2E2F42;
     padding: 188px 0;
     }
 .section-one-title  {
-
     display: block;
     color: #FFFFFF;
     background-color: #2E2F42;
@@ -333,8 +326,6 @@ width: calc((100% - 48px) / 3);
 .footer-container {
     background-color: #2E2F42;
     padding: 100px 0 100px 156px;
-    
-   
 }
 
 .footer-logo {
