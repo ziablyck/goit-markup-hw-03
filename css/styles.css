@@ -46,7 +46,7 @@ border-bottom: 1px solid #e7e9fc;
 
 margin-left: auto;
 margin-right: auto;
-
+padding: 24px;
 display: flex;
 justify-content: space-between;
 }
@@ -109,7 +109,7 @@ gap: 40px;
 /**================================**/
 /**===========sec-btn==========**/
 
-.section-one-container {
+.section-one {
     background-color: #2E2F42;
     padding: 188px 0;
     }
